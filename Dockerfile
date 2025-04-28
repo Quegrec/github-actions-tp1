@@ -7,6 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt
  
 COPY . . 
  
-CMD ["python", "-c", "from model import predict_sentiment;
-print(predict_sentiment('I am happy to use Docker with GitHub 
-Actions'))"]
+CMD ["python", "-c", "from model import predict_sentiment; print(predict_sentiment('I am happy to use Docker with GitHub Actions'))"]
