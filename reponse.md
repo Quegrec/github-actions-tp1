@@ -1,6 +1,6 @@
 # machin GitHub Actions TP 
  
-![Build Status](https://github.com/ton-username/github-actions-tp1/actions/workflows/badge.yml/badge.svg)
+![Build Status](https://github.com/quegrec/github-actions-tp1/actions/workflows/badge.yml/badge.svg)
 
 8) ![alt text](image.png)
 10) ![alt text](image-2.png)
